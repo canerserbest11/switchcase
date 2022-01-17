@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\console\switchcase\bin\Debug\net6.0\switchcase.exe
+C:\Users\Administrator\Documents\console\switchcase\bin\Debug\net6.0\switchcase.deps.json
+C:\Users\Administrator\Documents\console\switchcase\bin\Debug\net6.0\switchcase.runtimeconfig.json
+C:\Users\Administrator\Documents\console\switchcase\bin\Debug\net6.0\switchcase.dll
+C:\Users\Administrator\Documents\console\switchcase\bin\Debug\net6.0\ref\switchcase.dll
+C:\Users\Administrator\Documents\console\switchcase\bin\Debug\net6.0\switchcase.pdb
+C:\Users\Administrator\Documents\console\switchcase\obj\Debug\net6.0\switchcase.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\console\switchcase\obj\Debug\net6.0\switchcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\console\switchcase\obj\Debug\net6.0\switchcase.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\console\switchcase\obj\Debug\net6.0\switchcase.AssemblyInfo.cs
+C:\Users\Administrator\Documents\console\switchcase\obj\Debug\net6.0\switchcase.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\console\switchcase\obj\Debug\net6.0\switchcase.dll
+C:\Users\Administrator\Documents\console\switchcase\obj\Debug\net6.0\ref\switchcase.dll
+C:\Users\Administrator\Documents\console\switchcase\obj\Debug\net6.0\switchcase.pdb
+C:\Users\Administrator\Documents\console\switchcase\obj\Debug\net6.0\switchcase.genruntimeconfig.cache
